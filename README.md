@@ -1,5 +1,6 @@
 Readme.md file data
 # 📰 Fake News Detection using NLP & Machine Learning
+# ➡️ Here is the direct Kaggle link: https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
 
 ## 📘 Project Overview
 This project tackles the growing issue of **misinformation** by leveraging **Natural Language Processing (NLP)** and **Machine Learning** to detect fake news articles. By analyzing text patterns in news content, the model can predict whether an article is **real or fake**, helping users and organizations combat disinformation online.
